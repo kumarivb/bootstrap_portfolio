@@ -66,3 +66,35 @@ img.connect {
 	padding: 10px 0px 0px 0px;
 	font-size: 10px;
 }
+
+.portfolioBar {
+	background-color: #b3c8e7;
+	text-align: center;
+	color: #c3ad46; 
+	margin-top: 125px;
+	line-height: 40px;
+}
+
+.portfolioContent {
+	margin-top: 40px;
+}
+
+.headerPortfolio {
+	color: #998e7b;
+	font-weight: bold;
+}
+
+.contactContent {
+	margin-top: 40px;
+}
+
+.headerContact {
+	color: #998e7b;
+	font-weight: bold;
+}
+
+.btn-primary {
+	background-color: #214d77;
+	border-color: #214d77;
+	color: #c3ad46;
+}
