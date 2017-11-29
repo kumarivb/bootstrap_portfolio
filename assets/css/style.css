@@ -20,7 +20,7 @@ img.connect {
 }
 .navbar {
 	padding: 0px;
-	border-bottom: 2px solid #aaa8b1;
+	border-bottom: 8px solid #214d77;
 }
 
 .siteHeader {
@@ -38,7 +38,7 @@ img.connect {
 }
 
 .aboutContent {
-	margin-top: 40px;
+	margin-top: 20px;
 }
 
 .card-body {
@@ -55,17 +55,13 @@ img.connect {
 	font-weight: bold;
 }
 
-.fixed-bottom {
-	background-color: #aaa8b1;
-	border-top: 2px solid #214d77;
-	border-radius: 0 !important;
-}
-
+ /*
 .copyright {
 	text-align: center;
 	padding: 10px 0px 0px 0px;
 	font-size: 10px;
 }
+*/
 
 .portfolioBar {
 	background-color: #b3c8e7;
@@ -97,4 +93,28 @@ img.connect {
 	background-color: #214d77;
 	border-color: #214d77;
 	color: #c3ad46;
+}
+
+.containFooter {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
+
+footer {
+  padding: 30px 0;
+  margin-top: 20px;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #aaa8b1;
+  border-top: 8px solid #214d77;
+}
+
+footer,
+.push {
+  height: 105px;
 }
